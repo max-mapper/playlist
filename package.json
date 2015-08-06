@@ -1,14 +1,10 @@
 {
   "name": "playlist",
   "version": "0.0.1",
-  "description": "generates list of all .mp3 files in current folder tree",
+  "description": "html5 web audio module for managing audio playlist playback",
   "main": "index.js",
-  "bin": {
-    "playlist": "cli.js"
-  },
   "author": "max ogden",
   "license": "BSD",
   "dependencies": {
-    "glob": "~3.2.6"
   }
 }
